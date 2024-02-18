@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: You may try Github notifications!
 - 😄 Pronouns: currently undisclosed.
-- ⚡ Fun fact: SAFe is not safe, not at all.
+- ⚡ Fun fact: SAFe is not safe, not at all. One is a registered trademark, the other a word from a dictionary.
 
 <!---
 HalfCodePrince/HalfCodePrince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
